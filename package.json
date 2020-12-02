@@ -1,0 +1,13 @@
+{
+  "name": "adventofcode2020",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:andrewgeorgemitchell/adventofcode2020.git",
+  "author": "Andrew <andrewgeorgemitchell@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.14.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}
